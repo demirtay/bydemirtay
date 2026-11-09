@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://demirtay.github.io/bydemirtay/sitemap.xml
+Sitemap: https://bydemirtay.com/sitemap.xml
